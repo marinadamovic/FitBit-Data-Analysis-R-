@@ -10,3 +10,6 @@ Each .csv file has gone through these stages, respectively:
 
 # Used for analysis
 R, with packages tidyverse, ggplot2, lubridate, dplyr
+
+## Note: 
+This project was part of a university exam, so some comments or files may be in Serbian.
